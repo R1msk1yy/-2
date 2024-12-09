@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+   int a, b;
+   int S;
+   
+   cout << "введите два числа" << endl;
+   cin >> a, b;
+   
+  
+   cout << "Выберите выполняемую операцию: 1-сложение, 2-вычитание, 3- умножение, 4- деление " << endl;
+   int 1, 2, 3, 4;
+   if 1 = (a + b);
+   if 2 = (a - b);
+   if 3 = (a * b);
+   if 4 = (a / b);
+   S = 
+   cout << S;
+    return 0;
+}
